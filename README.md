@@ -35,4 +35,4 @@ Check my pinned repos. Currently shipping an AI Research Analyst and an AI-Nativ
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ahmedhassan-ansari) · [GitHub](https://github.com/AhmedHassanAnsari)
+[LinkedIn](in/ahmed-hassan-ansari-0b73122a3) · [GitHub](https://github.com/AhmedHassanAnsari)
