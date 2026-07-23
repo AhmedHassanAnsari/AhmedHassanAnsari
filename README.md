@@ -1,6 +1,6 @@
 # Ahmed Hassan Ansari
 
-**AI Systems Engineer · CS @ COMSATS University Islamabad**
+**AI Systems Engineer**
 
 I build production-oriented AI systems — multi-agent pipelines, RAG applications, AI employees, and cloud-native deployments. My focus is on the full stack of modern AI engineering: from agent orchestration and retrieval to observability and deployment.
 
